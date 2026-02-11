@@ -175,8 +175,7 @@ http://localhost:3000/
 
 # 👥 Contributors
 
-| Name             |                                                    |
-| ---------------- | 
+| Name             |                                                    | | 
 | Mrunmai Tippat   | 
 | Himanshu Gadekar | 
 

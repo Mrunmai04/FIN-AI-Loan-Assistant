@@ -1,0 +1,7 @@
+{
+  "name": "FinAI Loan Assistant",
+  "description": "An intelligent, conversational AI loan assistant with real-time voice capabilities and banking-grade compliance workflows.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
